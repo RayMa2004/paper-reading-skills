@@ -1,0 +1,4 @@
+interface:
+  display_name: "英文文献中文精讲"
+  short_description: "把英文文献片段讲成自然中文，先忠实说明原意，再补充概念与推理难点"
+  default_prompt: "请使用 $explain-paper-passage 阅读我提供的英文文字或截图，先用自然中文忠实讲解原意，再单独补充难懂的概念和推理。"
